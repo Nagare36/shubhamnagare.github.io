@@ -1,2 +1,3 @@
 # shubhamnagare.github.io
-Make this website to give people information about my self.
+Notepad App using python and tkinter librery
+
